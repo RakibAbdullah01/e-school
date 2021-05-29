@@ -1,0 +1,89 @@
+* {
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap');
+    
+}
+body {
+    background-color: #FFF;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+}
+.nav-item {
+    padding: 0 10px;
+}
+.nav-link {
+    color: black;
+}
+.green-btn {
+    color: #fff;
+    text-decoration: none;
+    background-color: green;
+    padding: 12px 28px;
+    border-radius: 25px;
+}
+
+.navbar, #hero {
+    background-color: #F0FFF0;
+}
+#hero, #service{
+    padding: 50px 0;
+}
+span{
+    color: green;
+}
+h1{
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+}
+.card {
+    text-align: center;
+    background: #F8FFFB;
+    border: none;
+    border-radius: 10px;
+}
+.card:hover{
+    background-color: #fff;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.card-body {
+    padding: 40px 0;
+}
+.card-body img {
+    margin: 15px auto;
+}
+#testimonial {
+    text-align: center;
+}
+.test {
+    width: 800px;
+    margin: 25px auto;
+}
+.test figure{
+    float: left;
+    padding: 0 50px;
+}
+.test p{
+    text-align: left;
+    font-size: 16px;
+    line-height: 1.5rem;
+}
+
+#footer{
+    padding-top: 30px;
+    background-color: #282531;
+    color: #fff;
+}
+ul {
+    list-style: none;
+}
+#footer a {
+    text-decoration: none;
+    color: #fff;
+}
+.list-header {
+    font-weight: 700;
+}
+small {
+    margin: 0 auto;
+}
