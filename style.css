@@ -54,6 +54,7 @@ h1{
 }
 #testimonial {
     text-align: center;
+    margin-bottom: 100px;
 }
 .test {
     width: 800px;
@@ -70,7 +71,7 @@ h1{
 }
 
 #footer{
-    padding-top: 30px;
+    padding-top: 50px;
     background-color: #282531;
     color: #fff;
 }
@@ -78,12 +79,16 @@ ul {
     list-style: none;
 }
 #footer a {
+    margin: 100px auto;
     text-decoration: none;
     color: #fff;
 }
 .list-header {
     font-weight: 700;
+    font-size: 24px;
 }
 small {
-    margin: 0 auto;
+    display: block;
+    text-align: center;
+    padding: 20px;
 }
